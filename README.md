@@ -56,8 +56,8 @@ multi-tenant-saas/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Jnaneswari19/multi-tenant-saas.git
-cd multi-tenant-saas
+git clone https://github.com/Shankars57/Multi-tenant-saas.git
+cd Multi-tenant-saas
 ```
 
 ### 2. Create `.env` file
