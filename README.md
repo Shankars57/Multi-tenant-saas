@@ -146,31 +146,6 @@ If you want to run the frontend separately (without Docker):
 - [Technical Specification](docs/technical-spec.md)  
 - [API Documentation](docs/api-docs.md)  
 
----
-
-## 📸 Proof Screenshots
-
-### ✅ Docker Compose
-![Docker Compose](docs/screenshots/docker_running.png)
-
-### ✅ Backend API
-![Tenants and Users](docs/screenshots/backend_api.png)
-
-### ✅ Database Tables
-![Postgres Tables](docs/screenshots/db_tables.png)
-
-### ✅ Frontend UI
-![Projects](docs/screenshots/projects_ui.png)
-![Tasks](docs/screenshots/tasks_ui.png)
-
----
-
-## 🎥 Demo
-
-- Projects page: ![Projects](docs/screenshots/projects_ui.png)  
-- Tasks page: ![Tasks](docs/screenshots/tasks_ui.png)  
-
----
 
 ## 📡 API Endpoints
 
